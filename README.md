@@ -1,4 +1,4 @@
-# Dashboard-de-Vendas-utilizando-o-Microsoft-Excel.
+# Dashboard-de-Vendas-utilizando-o-Microsoft-Excel
 Este projeto foi desenvolvido como parte de um desafio de Ciência de Dados, com o objetivo de criar um Dashboard de Vendas utilizando o Microsoft Excel.
 
 O principal objetivo é transformar dados brutos de vendas em informações visuais claras e úteis, facilitando a análise do desempenho comercial e auxiliando na tomada de decisões baseada em dados.
